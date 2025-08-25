@@ -14,7 +14,6 @@ Includes a **background picker** (presets + custom uploads saved to `localStorag
 
 ## 📸 Screenshot
 
-> Replace the path if your image lives somewhere else.
 
 ![Weather Dashboard](public/screenshot.png)
 
