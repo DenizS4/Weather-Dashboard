@@ -42,6 +42,23 @@ Includes a **background picker** (presets + custom uploads saved to `localStorag
 - **Icons:** `lucide-react`
 
 ---
+## 📦 Installation
 
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/DenizS4/FitzoneGymApp.git
+   cd FitzoneGymApp
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   
+3. **Run the project**
+   ```bash
+   npm run dev
+
+4. **Open the project**
+   ```bash
+   http://localhost:3000
 
 
